@@ -24,7 +24,7 @@
 [![proyecto C#](https://github.com/leoMa23/imagen-de-repo/blob/main/proyectogit2.png?raw=true)](https://github.com/leoMa23/Curso-Maxi-Programa-Nivel2)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leoMa23&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leoMa23&layout=compact&theme=github_dark)
 
 </div>
 <h2 style="text-align:center;">Tecnologias 💻<h2>
