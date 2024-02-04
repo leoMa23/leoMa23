@@ -25,6 +25,7 @@
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leoMa23&layout=compact&theme=dark)
+
 </div>
 <h2 style="text-align:center;">Tecnologias 💻<h2>
 
